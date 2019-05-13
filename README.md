@@ -1,2 +1,2 @@
 # internetingishard
-My work following the internetingishard.com tutorials.
+My work following the [Interneting Is Hard](internetingishard.com) tutorials.
